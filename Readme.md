@@ -10,7 +10,7 @@
 4. Uncomment de regel "#define SDFAT" in TMRpcm/pcmConfig.h
 5. ???
 6. Profit
-
+       
 ## Formaat sound files
 
 Sound files moeten in het formaat 8 bit unsigned pcm zijn gezet.
